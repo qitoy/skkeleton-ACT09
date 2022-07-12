@@ -5,6 +5,8 @@ endif
 let g:loaded_skkeleton_ACT09 = v:true
 
 let g:skkeleton_ACT09 = {
+\   "\\": "katakana",
+\   "|": "hankatakana",
 \   "!": ["！"],
 \   ".": ["。"],
 \   ",": ["、"],
